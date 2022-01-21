@@ -1,0 +1,5 @@
+.main{
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
